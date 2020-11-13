@@ -1,0 +1,6 @@
+[submodule "public-tests"]
+	path = public-tests
+	url = https://github.com/se2p/ps-wise-2021-public-tests
+[submodule "program-description"]
+	path = program-description
+	url = https://github.com/se2p/ps-wise-2021-program-description
